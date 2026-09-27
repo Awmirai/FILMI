@@ -19,3 +19,5 @@ Prototype features:
 This is a prototype build for device testing. The next production phase should add multi-user/cloud sync, role permissions, branch/location stock, barcode scanning and demand-based reorder forecasting.
 
 CI build trigger: 2026-09-27.
+
+CI rebuild trigger: android runner fix.
