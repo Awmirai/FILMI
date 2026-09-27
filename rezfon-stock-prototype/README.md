@@ -21,3 +21,5 @@ This is a prototype build for device testing. The next production phase should a
 CI build trigger: 2026-09-27.
 
 CI rebuild trigger: android runner fix.
+
+CI rebuild trigger: explicit sdkmanager path.
